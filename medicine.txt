@@ -1,0 +1,20 @@
+napa
+paracitamol
+12.00
+122
+12 2029
+faxo
+faxofenedin
+9.00
+10
+12 2029
+surgel
+omeprazol
+7.00
+100
+12 2029
+zmax
+azzethromicin
+35.00
+100
+12 2027

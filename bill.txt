@@ -1,0 +1,8 @@
+Customer Name: 
+Customer Phone Number: 
+Customer Address: 
+
+Purchased Medicines:
+Napa	paracitamol	2.00	10	12 2027
+
+Total Cost: 20.00
